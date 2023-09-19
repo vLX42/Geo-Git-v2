@@ -715,4 +715,5 @@ export const LOCATION_OPTIONS = [
 
   { value: "Manaus", label: "Manaus", coordinates: [-3.119027, -60.021731] },
   { value: "Lima", label: "Lima", coordinates: [-12.046373, -77.042754] },
+  { value: "Copenhagen", label: "Copenhagen", coordinates: [55.676098, 12.568337] },
 ];
